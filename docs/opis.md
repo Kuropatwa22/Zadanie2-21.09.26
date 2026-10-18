@@ -1,9 +1,13 @@
 ## Przycisk środkowy (button)
 
 layout_width = ustawia szerokosc guzika.
+
 layout_height = ustawia wysokosc guzika.
+
 id = nadaje guzikowi jego nazwe.
+
 text = ustawia napis na guziku.
+
 constraintBottom_toBottomOf = przyczepia dol guzika do dolu ekranu.
 constraintEnd_toEndOf = przyczepia prawa strone guzika do prawej strony ekranu.
 constraintHorizontal_bias = ustawia guzik mniej wiecej na srodku w poziomie.
